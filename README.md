@@ -1,2 +1,2 @@
 # cici
-new repository
+hello word
